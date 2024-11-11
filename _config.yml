@@ -8,6 +8,8 @@ aux_links:
   Template Repository: https://github.com/KinRap/KingaRapackaPortfolio
 
 
+color_scheme: dark
+
 favicon_ico: "/Images/Favicon.png"
 
 back_to_top: true
