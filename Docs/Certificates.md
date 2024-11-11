@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 --- 
 <div style="text-align: center">
-    <img src="../Images/3.png" alt="Certificates Header" width="100%"/> 
+    <img src="../Images/3.png" alt="Certificates Header" width="90%"/> 
 </div>
 
 
