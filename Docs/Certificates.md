@@ -4,10 +4,9 @@ layout: default
 nav_order: 3
 --- 
 <div style="text-align: center">
-    <img src="../Images/3.png" alt="About Me Header" width="80%"/> 
+    <img src="../Images/3.png" alt="Certificates Header" width="80%"/> 
 </div>
 
-# **Certificates**
 
 As a teacher and technical writer, I am committed to staying at the forefront of technology and innovation. Over the years, I’ve earned a range of certifications that enhance my ability to teach complex subjects, communicate technical information clearly, and apply cutting-edge tools such as Generative AI. These certifications not only demonstrate my expertise but also my dedication to continuous learning and professional growth.
 
