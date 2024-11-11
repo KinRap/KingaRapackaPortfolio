@@ -3,7 +3,9 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<img src="Images/1.png" alt="KInga Rapacka Portfolio" width="100%"> 
+<div style="text-align: center">
+    <img src="Images/1.png" alt="KInga Rapacka Portfolio" width="80%"> 
+</div>
 
 # **Kinga Rapacka** <!--omit in toc-->
 

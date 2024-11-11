@@ -3,7 +3,9 @@ title: Certificates
 layout: default
 nav_order: 3
 --- 
-<img src="../Images/3.png" alt="About Me Header" width="100%"/> 
+<div style="text-align: center">
+    <img src="../Images/3.png" alt="About Me Header" width="80%"/> 
+</div>
 
 # **Certificates**
 
