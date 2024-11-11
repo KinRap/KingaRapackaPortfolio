@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 <div style="text-align: center">
-    <img src="Images/1.png" alt="KInga Rapacka Portfolio" width="80%"> 
+    <img src="Images/1.png" alt="KInga Rapacka Portfolio" width="90%"> 
 </div>
 
 
