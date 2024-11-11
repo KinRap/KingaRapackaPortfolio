@@ -18,5 +18,3 @@ Here, you’ll find examples of my work that showcase my dedication to clarity, 
 I hope you enjoy exploring my portfolio as much as I enjoyed creating it. 
 
 Feedback is always welcome—I'm always looking to improve and grow!
-
-
