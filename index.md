@@ -7,6 +7,7 @@ nav_order: 1
     <img src="Images/1.png" alt="KInga Rapacka Portfolio" width="80%"> 
 </div>
 
+
 # **Kinga Rapacka** <!--omit in toc-->
 
 
