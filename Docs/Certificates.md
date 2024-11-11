@@ -3,6 +3,7 @@ title: Certificates
 layout: default
 nav_order: 3
 --- 
+<img src="../Images/3.png" alt="About Me Header" width="100%"/> 
 
 # **Certificates**
 
