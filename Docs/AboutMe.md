@@ -11,5 +11,9 @@ I’m a motivated and detail-oriented professional with a strong foundation in p
 I invite you to explore my CV and portfolio to see my work in action—each piece reflects my commitment to quality and clarity. I hope you find something here that resonates!
 
 <div style="text-align: center">
-<img src="../Images/KingaRapackaCV.png" alt="Kinga Rapacka CV" target="_blank" width="75%" >
+    <a href="../Images/Kinga Rapacka CV.pdf">
+        <img src="../Images/KingaRapackaCV1.png" alt="Kinga Rapacka CV1" target="_blank" width="75%">
+        <img src="../Images/KingaRapackaCV2.png" alt="Kinga Rapacka CV2" target="_blank" width="75%" >
+    </a>
+
 </div>
