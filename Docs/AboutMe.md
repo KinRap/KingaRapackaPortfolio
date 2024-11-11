@@ -5,7 +5,7 @@ nav_order: 2
 --- 
 
 <div style="text-align: center">
-    <img src="../Images/2.png" alt="About Me Header" width="90%"/> 
+    <img src="../Images/2.png" alt="About Me Header" width="100%"/> 
 </div>
 
 
