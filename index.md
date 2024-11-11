@@ -8,7 +8,7 @@ nav_order: 1
 # **Kinga Rapacka** <!--omit in toc-->
 
 
- ## Welcome to My Portfolio!
+## Welcome to My Portfolio!
 
 Hello and thanks for visiting! 
 I'm a technical writer with a passion for turning complex ideas into clear, user-friendly content. 
