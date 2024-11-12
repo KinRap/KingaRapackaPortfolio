@@ -1,5 +1,5 @@
 ---
-title: Genrative AI for Technical Writing
+title: Generative AI for Technical Writing
 layout: default
 nav_order: 4
 --- 

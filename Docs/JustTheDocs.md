@@ -9,7 +9,7 @@ nav_order: 7
 
 As a mini-project, I created a streamlined, informative site about Nicholas Sparks using Just the Docs, a theme for Jekyll, to showcase my skills in technical documentation and website generation with minimal setup. This project allowed me to build a clean, responsive documentation site with an emphasis on simplicity and effective navigation.
 
-**<a href="https://kinrap.github.io/Sparks/" target="_blank"> Just the Docs: Mini-Project aobut NIcholas Sparks </a>**
+**<a href="https://kinrap.github.io/Sparks/" target="_blank"> Just the Docs: Mini-Project about NIcholas Sparks </a>**
 
 **Technologies & Tools Used:**
 
