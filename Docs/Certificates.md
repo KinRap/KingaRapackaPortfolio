@@ -32,7 +32,9 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 
 
-## **Personal Development**
+## **Personal Development:**
+
+
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
 | 2024.10.23 | Narrative Analysis in Working with the Bible        | Wydawnictwo WAM |
@@ -51,6 +53,9 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 
 ## **Education & Teaching:**
+
+
+
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
 | 2024.09.21 | With Empathy from Preschool       | WSB University|
