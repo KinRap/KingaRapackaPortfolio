@@ -12,3 +12,26 @@ As a teacher and technical writer, I am committed to staying at the forefront of
 
 They empower me to combine cutting-edge technologies like Generative AI with my passion for teaching and technical writing. They help me not only teach new and emerging topics with authority but also write clear, insightful documentation that reflects the latest advancements in technology. By staying updated with the latest in AI and other fields, I ensure that my students and readers receive the most relevant and impactful information.
 
+## **Professional Development:**
+
+| Date Completed | Certificate Title    | Issued By |
+| ----           | -----------          | ----      |
+|2024.11.09   |Generative AI         |Santander Open Academy/MIT Professional Education|
+| 2024.09.14|Scrum Basics - Agile Project Management|Santander Open Academy|
+| 2024.09.09|Google: Artificial intelligence and productivity|Santander Open Academy/Google|
+|2024.09.21   |Virtual Reality and the Metaverse Environment |WSB University|
+|2024.09.20   |Pillars of Leadership Potential Assessment in Modern Organizations|WSB University|
+|2024.09.18   |New Technologies, New Challenges: Data Security in a Changing World|WSB University|
+|2024.09.17   |Crucible of Reality: Deepfake Threats and Challenges in the Age of Digital Manipulation|WSB University|
+|2024.09.16|AI in Business – Harness the Potential of Artificial Intelligence in Your Company|WSB University|
+
+
+
+
+## **Personal Development**
+| 3    | Text        | 3    |
+
+## **Education & Teaching:**
+| 2    | Text        | 2    |
+
+
