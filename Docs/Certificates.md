@@ -35,16 +35,16 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 ## **Personal Development**
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
-| 2024.10.23 | Narrative Analysis in Working with the Bible        |Wydawnictwo WAM |
-|2024.09.22 |Adolescent in a Mental Health Crisis – How to Recognize? How to Respond? How to Help?| WSB University|
-|2024.09.20|The Importance of 'Ego' and 'Mojo' in Leadership: How to Develop and Maintain Engagement by Building an Authentic Leadership Model|WSB University|
-|2024.04.25|Mindful Supplementation – How to Tailor Supplements to Your Needs|Saint Wojciech publishing House|
-|2024.02.29|Passivity or Activity – Response to Suicide|Saint Wojciech publishing House |
-|2023.11.15|Find Your Inner Balance!|Saint Wojciech publishing House |
-|2023.02.23|Crisis Interventions for Children and Adolescents||
-|2023.02.11|Where Does Speech Reside? – Neurological Aspects of Speech Development|WSB University|
-|2022.02.09|Legal Foundations of the Religious Education Teacher Profession|Wydawnictwo WAM|
-|2021.05.31|School of Thinking"|Specialist Education Center EDU-MACH|
+| 2024.10.23 | Narrative Analysis in Working with the Bible        | Wydawnictwo WAM |
+| 2024.09.22 | Adolescent in a Mental Health Crisis – How to Recognize? How to Respond? How to Help? | WSB University|
+| 2024.09.20 | The Importance of 'Ego' and 'Mojo' in Leadership: How to Develop and Maintain Engagement by Building an Authentic Leadership Model| WSB University|
+| 2024.04.25 | Mindful Supplementation – How to Tailor Supplements to Your Needs | Saint Wojciech publishing House|
+| 2024.02.29 | Passivity or Activity – Response to Suicide|Saint Wojciech publishing House |
+| 2023.11.15 | Find Your Inner Balance!|Saint Wojciech publishing House |
+| 2023.02.23 | Crisis Interventions for Children and Adolescents| |
+| 2023.02.11 | Where Does Speech Reside? – Neurological Aspects of Speech Development|WSB University |
+| 2022.02.09 | Legal Foundations of the Religious Education Teacher Profession | Wydawnictwo WAM|
+| 2021.05.31 | School of Thinking"| Specialist Education Center EDU-MACH|
 
 
 
