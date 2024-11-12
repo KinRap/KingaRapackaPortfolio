@@ -95,3 +95,25 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 |2019.08.05|Developing Digital Competencies of Students and Teachers. Safe Use of Online Resources|Specialist Education Center EDU-MACH|
 |2019.08.05|Self-Control or Emotional Self-Regulation in Children|Specialist Education Center EDU-MACH|
 |2018.12.03|Dealing with Students Facing Behavioral Difficulties|Specialist Education Center EDU-MACH|
+
+
+**Academic Publications:**
+
+As a researcher and scholar specializing in Biblical Studies, I have authored and contributed to several academic publications that demonstrate my technical writing abilities and research expertise. My work focuses on scriptural analysis, theological interpretation, and narrative structures in the New Testament. Through these contributions, I have showcased my proficiency in multiple languages and advanced research methods, ensuring both the precision and clarity of my writing.
+Throughout my work, I employ my extensive knowledge of ancient languages—particularly Koine Greek and Biblical Hebrew—along with modern research methodologies, to interpret and present Biblical texts with accuracy. My linguistic expertise enhances my ability to produce scholarly content that is both technically precise and accessible to the academic community, ensuring a clear and authentic representation of the original Scriptures.
+
+1. K. Kłósek, "The Significance of Two Accounts of the Multiplication of Loaves (Mk 6:30-44; Mk 8:1-9)," in: Studies in Biblical Studies, Vol. 9, ed. R. Bartnicki, Warsaw 2017, pp. 73-196.
+
+2. K. Kłósek, "Narrative Analysis," in: Studies in Biblical Studies, Vol. 9, ed. R. Bartnicki, Warsaw 2017, pp. 197-288.
+
+3. R. Bartnicki, K. Kłósek, Methods of Interpreting the New Testament: An Introduction, Kraków 2014.
+
+4. K. Kłósek, "Jesus as the Son of God in St. Matthew's Account of Walking on the Sea (Mt 14:22-33)," in: Warsaw Theological Studies (XXVI/2013), Warsaw 2013, pp. 31-54.
+
+5. K. Kłósek, "The Administrative Activity of Rev. Rector Roman Bartnicki," in: Rev. Rector Roman Bartnicki. From the Academy of Catholic Theology to the Cardinal Stefan Wyszyński University in Warsaw: A Memorial Book for Professor Roman Bartnicki Dedicated on the 40th Anniversary of His Scholarly Work, Warsaw 2012, pp. 88-124.
+
+6. K. Rapacka, "Blessed are the Pure in Heart, for They Shall See God," in: The Symbolism of the Body in the Bible. Bulletin of the Scientific Society of Biblical Studies Students, Warsaw, May 29, 2012.
+
+7. K. Rapacka, "The Epiphanic Nature of the Account of Walking on the Sea in Mk 6:45-52," in: Studies in Biblical Studies, Vol. 8, ed. R. Bartnicki, Warsaw 2011, pp. 247-272.
+
+8. K. Rapacka, "Mother-in-law and Wife of St. Peter – Myths and Facts," in: "A Virtuous Woman, Who Can Find? Her Value is Far Above Rubies. Bulletin Accompanying the Doctoral Symposium 'Biblical Women – Their Activity, Role, and Example,'" Warsaw, March 8, 2011.
