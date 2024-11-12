@@ -100,6 +100,7 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 **Academic Publications:**
 
 As a researcher and scholar specializing in Biblical Studies, I have authored and contributed to several academic publications that demonstrate my technical writing abilities and research expertise. My work focuses on scriptural analysis, theological interpretation, and narrative structures in the New Testament. Through these contributions, I have showcased my proficiency in multiple languages and advanced research methods, ensuring both the precision and clarity of my writing.
+
 Throughout my work, I employ my extensive knowledge of ancient languages—particularly Koine Greek and Biblical Hebrew—along with modern research methodologies, to interpret and present Biblical texts with accuracy. My linguistic expertise enhances my ability to produce scholarly content that is both technically precise and accessible to the academic community, ensuring a clear and authentic representation of the original Scriptures.
 
 1. K. Kłósek, "The Significance of Two Accounts of the Multiplication of Loaves (Mk 6:30-44; Mk 8:1-9)," in: Studies in Biblical Studies, Vol. 9, ed. R. Bartnicki, Warsaw 2017, pp. 73-196.
