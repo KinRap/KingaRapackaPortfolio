@@ -14,19 +14,20 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 ## **Professional Development:**
 
+
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
-|2024.11.09   |Generative AI         |Santander Open Academy/MIT Professional Education|
-| 2024.09.14|Scrum Basics - Agile Project Management|Santander Open Academy|
-| 2024.09.09|Google: Artificial intelligence and productivity|Santander Open Academy/Google|
-|2024.10.11|Academy of MOTIVATION|Saint Wojciech publishing House|
-| 2024.09.25|Discover the Art of Presentation. Design, Colors, and Composition in Practice|Saint Wojciech publishing House|
-|2024.09.21   |Virtual Reality and the Metaverse Environment |WSB University|
-|2024.09.20   |Pillars of Leadership Potential Assessment in Modern Organizations|WSB University|
-|2024.09.20|How to Divide the Cake? Modern Methods of Negotiation|WSB University|
-|2024.09.18   |New Technologies, New Challenges: Data Security in a Changing World|WSB University|
-|2024.09.17   |Crucible of Reality: Deepfake Threats and Challenges in the Age of Digital Manipulation|WSB University|
-|2024.09.16|AI in Business – Harness the Potential of Artificial Intelligence in Your Company|WSB University|
+| 2024.11.09 | Generative AI|Santander Open Academy/MIT Professional Education|
+| 2024.09.14 | Scrum Basics - Agile Project Management| Santander Open Academy|
+| 2024.09.09 | Google: Artificial intelligence and productivity| Santander Open Academy/Google|
+| 2024.10.11 | Academy of MOTIVATION| Saint Wojciech publishing House|
+| 2024.09.25 | Discover the Art of Presentation. Design, Colors, and Composition in Practice|Saint Wojciech publishing House|
+| 2024.09.21 | Virtual Reality and the Metaverse Environment |WSB University|
+| 2024.09.20 | Pillars of Leadership Potential Assessment in Modern Organizations|WSB University|
+| 2024.09.20 | How to Divide the Cake? Modern Methods of Negotiation| WSB University|
+| 2024.09.18   |New Technologies, New Challenges: Data Security in a Changing World|WSB University|
+| 2024.09.17   | Crucible of Reality: Deepfake Threats and Challenges in the Age of Digital Manipulation | WSB University|
+| 2024.09.16 |AI in Business – Harness the Potential of Artificial Intelligence in Your Company| WSB University|
 
 
 
