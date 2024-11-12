@@ -46,7 +46,7 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 | 2023.02.23 | Crisis Interventions for Children and Adolescents| Saint Wojciech publishing House |
 | 2023.02.11 | Where Does Speech Reside? – Neurological Aspects of Speech Development|WSB University |
 | 2022.02.09 | Legal Foundations of the Religious Education Teacher Profession | Wydawnictwo WAM|
-| 2021.05.31 | School of Thinking"| Specialist Education Center EDU-MACH|
+| 2021.05.31 | School of Thinking"| Specialist Education Center EDU-MACH |
 
 
 
