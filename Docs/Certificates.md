@@ -40,8 +40,12 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 |2024.04.25|Mindful Supplementation – How to Tailor Supplements to Your Needs|Saint Wojciech publishing House|
 |2024.02.29|Passivity or Activity – Response to Suicide|Saint Wojciech publishing House |
 |2023.11.15|Find Your Inner Balance!|Saint Wojciech publishing House |
-||||
-||||
+|2023.02.23|Crisis Interventions for Children and Adolescents||
+|2023.02.11|Where Does Speech Reside? – Neurological Aspects of Speech Development|WSB University|
+|2022.02.09|Legal Foundations of the Religious Education Teacher Profession|Wydawnictwo WAM|
+|2021.05.31|School of Thinking"|Specialist Education Center EDU-MACH|
+
+
 
 
 
@@ -61,32 +65,27 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 |2023.09.06|Christian Board Games as Modern and Effective Educational Methods|Saint Wojciech publishing House|
 |2023.03.11|21st National Catechetical Symposium ‘The Catechist in the Modern World|Saint Wojciech publishing House |
 |2023.03.02|Do It Yourself – Methodological Support for Early School Catechists|Saint Wojciech publishing House |
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-
-
-
-
+|2023.02.08|Icon Writing and Handicrafts in Religious Education|Saint Wojciech publishing House|
+|2023.04.03|How to Prevent Self-Harm and Other Destructive Behaviors in Students?|Specialist Education Center EDU-MACH|
+|2023.04.03|Autism – Working on Behaviors|Specialist Education Center EDU-MACH|
+|2023.01.04|The EPIPHANY – A Demonstration Religious Lesson|Saint Wojciech publishing House|
+|2022.04.2|How to Use Film in Religious Education Lessons?|Wydawnictwo WAM|
+|2022.04.20|Preparation for the Sacraments for Students with Special Educational Needs|Saint Wojciech publishing House|
+|2021.11.04|Chronically Ill Student – Challenges and Difficulties in Daily School Life|Małopolska Non-Public Teacher Development Center|
+|2021.10.28|Building Credibility and Trust in the Communication Process with Students|Catechetical Department of the Diocesan Curia in Sosnowiec|
+|2021.04.14|Selected Methods of Working with the Holy Scripture in Religious Education|Saint Wojciech publishing House|
+|2021.05.31|Teacher-Student-Parent Relationship as the Basis for Implementing Modern Solutions in Education|Specialist Education Center EDU-MACH|
+|2021.03.02|Holiness is the Standard! A Catechetical Game Scenario.|Saint Wojciech publishing House|
+|2021.01.26|How to Work with a Child/Student with Aphasia?|Perfectus - Non-Public Teacher Professional Development Institution|
+|2021.02.01|Design Thinking in Education|Specialist Education Center EDU-MACH|
+|2021.02.01| Emotions in Education|Specialist Education Center EDU-MACH|
+|2020.05.31|Creative Teacher – An Imaginative Creator|Specialist Education Center EDU-MACH|
+|2020.05.31|How to Tame a Troublemaker in Preschool and School?|Specialist Education Center EDU-MACH|
+|2020.05.31|Maria Montessori Pedagogy – Education and Therapy|Specialist Education Center EDU-MACH|
+|2020.02.03|Workshop on Identifying Developmental Needs of Students|Specialist Education Center EDU-MACH|
+|2020.02.03|Punishment or Reward, or Maybe Consequence and Praise? – How to Collaborate with Students|Specialist Education Center EDU-MACH|
+|2020.02.03|Teacher as a Coach – Coaching Skills in the Teacher's Work|Specialist Education Center EDU-MACH|
+|2019.08.05|Working with Gifted Students. Designing Activities to Support the Individual Development of Gifted Students|Specialist Education Center EDU-MACH|
+|2019.08.05|Developing Digital Competencies of Students and Teachers. Safe Use of Online Resources|Specialist Education Center EDU-MACH|
+|2019.08.05|Self-Control or Emotional Self-Regulation in Children|Specialist Education Center EDU-MACH|
+|2018.12.03|Dealing with Students Facing Behavioral Difficulties|Specialist Education Center EDU-MACH|
