@@ -17,7 +17,7 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
-| 2025.03 | "Artificial Intelligence (AI) for Everyone 2025"|Santander Open Academy/Lodz University of Technology|
+| 2025.03 | Artificial Intelligence (AI) for Everyone 2025|Santander Open Academy/Lodz University of Technology|
 | 2024.03.19 | Using AI in Business Development |Google/Waarsaw School of Economy|
 | 2024.02| Google AI Essentials |Coursera|
 | 2024.12.05 | Effective Business Writing|Santander Open Academy|
