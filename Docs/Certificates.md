@@ -18,8 +18,9 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
 | 2025.03 | Artificial Intelligence (AI) for Everyone 2025|Santander Open Academy/Lodz University of Technology|
-| 2024.03.19 | Using AI in Business Development |Google/Waarsaw School of Economy|
-| 2024.02| Google AI Essentials |Coursera|
+| 2025.03.19 | Using AI in Business Development |Google/Waarsaw School of Economy|
+| 2025.02| Google AI Essentials |Coursera|
+| 2025.02.06 |Count to 20! – 20 Rules for Time Management and Communication | WSB University |
 | 2024.12.05 | Effective Business Writing|Santander Open Academy|
 | 2024.11.09 | Generative AI|Santander Open Academy/MIT Professional Education|
 | 2024.09.14 | Scrum Basics - Agile Project Management| Santander Open Academy|
