@@ -33,6 +33,7 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 | 2024.09.18   |New Technologies, New Challenges: Data Security in a Changing World|WSB University|
 | 2024.09.17   | Crucible of Reality: Deepfake Threats and Challenges in the Age of Digital Manipulation | WSB University|
 | 2024.09.17 | Artificial Intelligence: Successful Application Examples | WSB University |
+| 2024.09.16 | Language Models – Friend or Foe? | WSB University |
 | 2024.09.16 |AI in Business – Harness the Potential of Artificial Intelligence in Your Company| WSB University|
 
 
