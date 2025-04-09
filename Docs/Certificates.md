@@ -44,6 +44,8 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
+| 2025.03.19 | Volunteering - The Gospel in Practice | Saint Wojciech publishing House |
+| 2024.11.15 | Attain Inner Equilibrium | Saint Wojciech publishing House |
 | 2024.10.23 | Narrative Analysis in Working with the Bible        | Wydawnictwo WAM |
 | 2024.09.22 | Adolescent in a Mental Health Crisis – How to Recognize? How to Respond? How to Help? | WSB University|
 | 2024.09.20 | The Importance of 'Ego' and 'Mojo' in Leadership: How to Develop and Maintain Engagement by Building an Authentic Leadership Model| WSB University|
@@ -65,6 +67,9 @@ They empower me to combine cutting-edge technologies like Generative AI with my 
 
 | Date Completed | Certificate Title    | Issued By |
 | ----           | -----------          | ----      |
+| 2025.03.08 | Catechist in the Context of the Challenges of the Contemporary World: Integration of Science, Technology, and Spirituality | Saint Wojciech publishing House |
+| 2024.04.02 | How to Enhance Catechetical and Parish Activities? | Saint Wojciech publishing House |
+| 2024.11.13 | Stewardship: A Blessed Attitude of Love. Based on Crown Financial Analysis | Saint Wojciech publishing House|
 | 2024.09.21 | With Empathy from Preschool       | WSB University|
 | 2024.09.16 |Enslavement or Development? Dilemmas of Contemporary Education and Schools| WSB Univeristy|
 | 2024.05.23|Calm Amongst the Turmoil|Saint Wojciech publishing House|
